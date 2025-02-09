@@ -24,13 +24,6 @@ from PIL import Image
 #st.set_page_config(layout="wide")
 path = kagglehub.dataset_download("arnabchaki/data-science-salaries-2023")
 
-primaryColor="#FF4B4B"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#31333F"
-font="sans serif"
-
-
 st.sidebar.write("Créé par : Sergina Bakala et Kiran Derennes",
                 "BUT 3 Sciences des Données - Groupe D",
                 "Année Universitaire 2024-2025")
