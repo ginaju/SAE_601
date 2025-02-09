@@ -34,4 +34,4 @@ sigstore-rekor-types==0.0.18
 tqdm==4.67.1
 tuf==5.1.0
 wheel==0.45.1
-
+scipy==1.11.4
