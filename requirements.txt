@@ -251,6 +251,7 @@ pyodbc @ file:///C:/b/abs_90kly0uuwz/croot/pyodbc_1705431396548/work
 pyOpenSSL @ file:///C:/b/abs_baj0aupznq/croot/pyopenssl_1708380486701/work
 pyparsing @ file:///C:/ci_311/pyparsing_1678502182533/work
 PyQt5==5.15.10
+<<<<<<< HEAD
 PyQt5-sip @ file:///C:/b/abs_c0pi2mimq3/croot/pyqt-split_1698769125270/work/pyqt_sip
 PyQtWebEngine==5.15.6
 PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
@@ -375,3 +376,16 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard==0.19.0
+=======
+rfc3161-client==0.1.2
+rfc8785==0.1.4
+securesystemslib==1.2.0
+setuptools==72.1.0
+sigstore==3.6.1
+sigstore-protobuf-specs==0.3.2
+sigstore-rekor-types==0.0.18
+tqdm==4.67.1
+tuf==5.1.0
+wheel==0.45.1
+scipy==1.11.4
+>>>>>>> 25e79a00b9bbd1ccc0a0e3c0c96b399b429c0ffb
