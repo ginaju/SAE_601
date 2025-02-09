@@ -12,7 +12,7 @@ id==1.5.0
 in-toto-attestation==0.9.3
 kagglehub==0.3.7
 matplotlib==3.10.0
-mkl-service==2.4.0
+mkl-service==2.4.2
 model-signing==0.2.0
 multidict==6.1.0
 platformdirs==4.3.6
